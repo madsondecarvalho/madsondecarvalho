@@ -4,7 +4,7 @@
 
 Resolvedor de Problemas.
 
-Desde 2016 trabalho na área de desenvolvimento Web, já trabalhei com tecnologias como PHP, Python e atualmente tenho focado em Node.js. Trabalhando com tecnologias front-end como Vue.js e Back-end como express. Estou sempre procurando me desenvolver pessoalmente e profissionalmente com novos desafios. #OpenToWork
+Desde 2016 trabalho na área de desenvolvimento Web, já trabalhei com tecnologias como PHP, Python e atualmente tenho focado em Node.js. Trabalhando com tecnologias front-end como Vue.js e Back-end como express. Estou sempre procurando me desenvolver pessoalmente e profissionalmente com novos desafios.
 
 ---
 
