@@ -2,9 +2,7 @@
 
 ### SOBRE
 
-Resolvedor de Problemas.
-
-Desde 2016 trabalho na área de desenvolvimento Web, já trabalhei com tecnologias como PHP, Python e atualmente tenho focado em Node.js. Trabalhando com tecnologias front-end como Vue.js e Back-end como express. Estou sempre procurando me desenvolver pessoalmente e profissionalmente com novos desafios.
+Desde 2016, atuo na área de desenvolvimento web, acumulando experiência em diversas tecnologias como Nodejs, PHP e atualmente tenho estudado Go. No front-end, trabalho com Vue.js, enquanto no back-end utilizo express. Sou apaixonado por resolver problemas complexos e estou sempre em busca de novos desafios para me aprimorar pessoal e profissionalmente.
 
 ---
 
