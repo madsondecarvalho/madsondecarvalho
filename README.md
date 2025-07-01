@@ -2,7 +2,11 @@
 
 ### SOBRE
 
-Desde 2016, atuo na área de desenvolvimento web, acumulando experiência em diversas tecnologias como Nodejs, PHP e atualmente tenho estudado Go. No front-end, trabalho com Vue.js, enquanto no back-end utilizo express. Sou apaixonado por resolver problemas complexos e estou sempre em busca de novos desafios para me aprimorar pessoal e profissionalmente.
+Desenvolvedor Web desde 2016, com experiência sólida em tecnologias como Node.js, PHP e Python. No front-end, atuo com Vue.js; no back-end, com Express.
+
+Tenho experiência na criação de aplicações escaláveis, sempre buscando usar tecnologia como aliada na redução de custos operacionais e otimização de processos.
+
+Nos últimos dois anos, venho me aprofundando em Inteligência Artificial generativa, trabalhando com ferramentas como Langchain (JavaScript) e PydanticAI (Python), desenvolvendo soluções que aliam inovação e eficiência.
 
 ---
 
